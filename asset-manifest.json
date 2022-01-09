@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66262938.chunk.css",
+    "main.js": "/static/js/main.2a70147c.chunk.js",
+    "main.js.map": "/static/js/main.2a70147c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.024ed7c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.024ed7c7.js.map",
+    "static/js/2.c30130b1.chunk.js": "/static/js/2.c30130b1.chunk.js",
+    "static/js/2.c30130b1.chunk.js.map": "/static/js/2.c30130b1.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.cf9c83e3.chunk.js": "/static/js/3.cf9c83e3.chunk.js",
+    "static/js/3.cf9c83e3.chunk.js.map": "/static/js/3.cf9c83e3.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.651aed64.chunk.js": "/static/js/4.651aed64.chunk.js",
+    "static/js/4.651aed64.chunk.js.map": "/static/js/4.651aed64.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5d0b217221202e50f15b04d3c792fe5f.js": "/precache-manifest.5d0b217221202e50f15b04d3c792fe5f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
+    "static/js/2.c30130b1.chunk.js.LICENSE.txt": "/static/js/2.c30130b1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/anna-univ-logo.png": "/static/media/anna-univ-logo.67496fe3.png",
+    "static/media/aws-logo.png": "/static/media/aws-logo.c7401f52.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/ge-2-logo.jpg": "/static/media/ge-2-logo.49303f75.jpg",
+    "static/media/lineage-logo.png": "/static/media/lineage-logo.fa06a7cb.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.024ed7c7.js",
+    "static/js/2.c30130b1.chunk.js",
+    "static/css/main.66262938.chunk.css",
+    "static/js/main.2a70147c.chunk.js"
+  ]
+}
